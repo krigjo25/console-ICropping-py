@@ -1,9 +1,9 @@
 # ICropping
 A Console program that Crops image extensions such as .jpg, .jpeg and .png.
-A demo can be watched at [Demo : ICropping](https://cs50.harvard.edu/python/2022/psets/6/shirt/)
 
 The project was created as an assignment for CS50P
-Please be aware, and respect the [Academic Honesty Policy](https://cs50.harvard.edu/x/2023/honesty/).
+Please be aware, and respect the [Academic Honesty Policy](https://cs50.harvard.edu/x/2023/honesty/)<br>
+A demo can be watched at [Demo : ICropping](https://cs50.harvard.edu/python/2022/psets/6/shirt/)
 
 ## Installation
 1. Clone the repository:
